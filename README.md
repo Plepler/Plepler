@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Plepler
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Programming
-- 💞️ I’m looking to collaborate on Programming
 - 📫 How to reach me? you can't
 
 <!---
