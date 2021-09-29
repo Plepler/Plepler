@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Plepler
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Programming
-- 📫 How to reach me? you can't
+- 📫 How to reach me? You can't
 
 <!---
 Plepler/Plepler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
